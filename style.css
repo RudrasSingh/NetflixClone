@@ -49,7 +49,7 @@ nav button {
 .btn {
     margin: 3px;
     padding: 6px;
-    border: 1px solid white;
+    border: 1px solid rgba(255, 255, 255, 0.728);
     color: white;
     border-radius: 4px;
     cursor: pointer;
@@ -57,6 +57,7 @@ nav button {
 
 .english {
     background-color: rgba(248, 243, 243, 0.021);
+    border: none;
 }
 
 .signIn {
